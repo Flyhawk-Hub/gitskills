@@ -1,1 +1,1 @@
-# Step1: Initializing gitskills
+# Step1: Initialize gitskills
